@@ -49,7 +49,7 @@
 
 2. **匿名提交（适合不熟悉 Git 的用户）：**
 
-   * 发送邮件至 `story@yourdomain.com`
+   * 发送邮件至 `joychoucuhk@gmail.com`
    * 或填写匿名表单（未来可考虑加）
 
 ### 💬 投稿格式建议 Suggested Format
