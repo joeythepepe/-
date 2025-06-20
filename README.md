@@ -104,6 +104,6 @@
 
 ## 🔗 项目链接 | Project Link
 
-> GitHub：
+> GitHub：https://github.com/joeythepepe/gold-digger-game-archive
 
 ---
