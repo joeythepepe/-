@@ -27,10 +27,6 @@
 ## 🗃 存档内容结构 | Archive Structure
 
 ```
-📁 /archive
-   ├── 2024-06-cn.json         # 中文留言（2024年6月收集）
-   ├── 2024-06-en.json         # English comments (if any)
-   └── ...
 📁 /submissions
    └── user-stories.md         # 用户投稿的原始文本故事
 📄 README.md
